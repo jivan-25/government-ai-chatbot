@@ -1,7 +1,5 @@
-
 streamlit
-pandas
-numpy
 transformers
 torch
+pandas
 psycopg2-binary
