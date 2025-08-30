@@ -1,6 +1,7 @@
+
 streamlit
 pandas
 numpy
-psycopg2-binary
 transformers
 torch
+psycopg2-binary
